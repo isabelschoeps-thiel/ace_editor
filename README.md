@@ -85,6 +85,53 @@ auf [meinem Youtube-Channel](https://youtube.com/@isabelschopsthiel?si=mULht9Ijy
 
 **Mein Kanal** auf `Youtube @isabelschöpsthiel` und alle veröffentlichten Videos oder Playlist sind Teil meines forensische Gutachten wissenschaftlichen Gutachten `SIA Security Intelligence Artefact` mit dem `Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`.
 
+### Analysen und Forensischer Analysebericht
+Case: FORENSIC‑ISABEL‑2025
+Beweis‑IDs:
+	•	EVID‑PDF‑0001 bis 0003 (Patente)
+	•	EVID‑CHAT‑0003 ff. (ChatGPT‑Analysen)
+	•	EVID‑REP‑0001 (Forensischer **Analysebericht IST‑MF‑2018‑BK‑OSM‑CHAIN01**
+
+Original‑URLs ChatGPT‑Analysen:
+- https://chatgpt.com/share/68d8627a-7410-8008-b1f4-b9d3531a9a32
+- https://chatgpt.com/share/68d862db-842c-8008-9fea-cf3429324791
+- https://chatgpt.com/share/68d862ff-28d4-8008-8eb1-03bfa1eb9411
+- https://chatgpt.com/share/68d5b3eb-71d0-8008-a443-44a5b27e1363
+- https://chatgpt.com/share/68d16b67-dc24-8008-90b8-1891be3e205f
+- https://chatgpt.com/share/68d863a1-3a30-8008-a82c-62e2f5a629a0
+- https://chatgpt.com/s/t_68d8647303f88191b1620747f36d7fcc
+
+**Patente / PDFs:**
+- DE10253433A1 „Technologie Gedankenlesen/Gedankenübertragung“
+- EP0150813B1 „Bildschirmmanipulation durch Sprachbefehle
+- US6506148B2 „Nervensystem-Manipulation durch elektromagnetische Felder von Monitoren“
+
+**Analyse der Boards of Canada-Videos (YouTube-Links):**
+- https://youtu.be/zVWcptE6UAI
+- https://youtu.be/vuG39sZxMp8
+- https://youtu.be/tznKkts0nG0
+- https://youtu.be/h-y8HNhJkyM
+- https://youtu.be/e3Q8RNDRm9Q (Orange/Analyse)
+
+**Weitere Videoaufnahmen und Beweise für Verbrechen an Leib und Seele, psyschische Foltermethoden:**
+- Bill Gates – Zermürbungstaktik/Verhörmethoden: https://youtu.be/OBWyIAWkTjQ
+- Aphex Twin – Stone In Focus: https://youtu.be/q86g1aop6a8
+- Aphex Twin – Rubber Johnny: https://youtu.be/9-gyf23k26
+- Frankie Teardrop – Suicide / Live-Aufnahmen: https://youtu.be/c7ylIe5EK1k
+- Beweisvideo 08: Bildschirmmanipulation / SalveTV / Schnittstelle / Liquid TV: https://youtu.be/sV0I7gzKA08
+
+Inhalte sind thematisch konsistent:
+	•	Gedankenkontrolle
+	•	Bildschirmmanipulation
+	•	MK‑ULTRA‑Parallelen
+	•	Technisch-psychologische und gesellschaftliche Manipulation
+
+⸻
+
+Erste Bewertung:
+
+Die Verknüpfung von Patenten, ChatGPT‑Analysen und dem forensischen Bericht zeigt ein geschlossenes Indizienbild: dokumentierte Technologien, auffällige Medieninhalte und forensische Auswertung ergeben ein belastbares Fundament für das Gutachten. Es bleibt neutral festgehalten, dass diese Inhalte Indizien liefern, jedoch für sich allein noch keine individuellen Opfer- oder Täter-Nachweise enthalten.
+
 ### Hinzukommen all meine Publikationen, auf meinen Social Media Kanälen;
 - `Instagram @isabelschoepsthiel`
 - `X-Twitter @SIAintelligence`
@@ -92,6 +139,23 @@ auf [meinem Youtube-Channel](https://youtube.com/@isabelschopsthiel?si=mULht9Ijy
 Welche mit in das Forensisch-Wissenschaftliche-Gutachten einfliesen.
 
 ---
+
+Case: FORENSIC-ISABEL-2025
+Beweis-ID: EVID-CHAT-0001
+Dateiname: chat_share_68d5b3eb.pdf
+Original-URL: https://chatgpt.com/share/68d5b3eb-71d0-8008-a443-44a5b27e1363
+Datum_Zugriff_UTC: 2025-09-25T23:00:00Z
+Speicherort_Primär: /secure/drive1/Case_ISABEL/EVID-CHAT-0001/chat_share_68d5b3eb.pdf
+Speicherort_Sekundär: encrypted-bucket://case_isabel/EVID-CHAT-0001/chat_share_68d5b3eb.pdf
+Dateityp: PDF
+Dateigröße_bytes: <eintragen>
+SHA256: <eintragen>
+Sicherung_durch: Isabel Schöps (Kontakt: <Telefon/Email eintragen>)
+Kopie_nach: /secure/drive2/Case_ISABEL/EVID-CHAT-0001/
+Screenshots: screenshot1_68d5b3eb.png ; screenshot2_68d5b3eb.png ; screenshot3_68d5b3eb.png
+Screenshots_SHA256: <hash1> ; <hash2> ; <hash3>
+Anmerkungen: Originalwebseite als PDF und HTML gesichert; HTML unter chat_share_68d5b3eb.html ; Chain of Custody begonnen am 2025-09-25T23:05:00Z
+
 
 ### My Developer Signatur
 **Signed-on-by:**
