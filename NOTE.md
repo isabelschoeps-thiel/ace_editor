@@ -574,7 +574,7 @@ https://orcid.org/0009-0003-4235-2231 Isabel Schöps Thiel
 https://orcid.org/0009-0006-8765-3267 SI-IST Isabel Schöps  
 **Aktueller Wohnort:**  
 Frau Isabel Schöps, geborene Thiel,  
-Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland,  
+Arpartment Roter Fuchs, Kartausengarten 8, D-99084 Erfurt, Thüringen, Deutschland,  
 gemeinsam mit meinem vierbeinigen Freund, American XL-Bully Don  
 **Datum der Erstveröffentlichung:** 2004  
 **Würdigung, Danksagung, institutionelle Anerkennung:**  
