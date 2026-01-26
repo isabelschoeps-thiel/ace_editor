@@ -14,8 +14,10 @@ schoepsisabel@gmail.com
 isabelschoepsthiel@gmail.com  
 **Aktueller Aufenthaltsort:**  
 Seit 24.01.2026, gemeinsam mit meinem Hund-Tier Don, American XL Bully Don, Apartment Roter Fuchs, Kartausengarten 8, 99084 Erfurt, TH, Deutschland, D-99094 Erfurt, Thüringen, Deutschland  
-  
-⸻  
+
+**Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026)**. isabelschoeps-thiel/boards_of_canada: Boards of Canada, Evidence Release (Boards_of_canada_evidence). Zenodo. https://doi.org/10.5281/zenodo.18380414
+
+---
   
 ## Übersicht und juristische Zuordnung der Beweismittel  
   
