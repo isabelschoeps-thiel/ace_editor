@@ -10,7 +10,6 @@ Frau Isabel Schöps, geborene Thiel
 Geboren am 16.07.1983 in Sömmerda, Thüringen, Deutschland
 Kontakt: +49 1621819565
 E-Mail: si_foundation@icloud.com, isabelschoeps.github@icloud.com, schoepsisabel@gmail.com, isabelschoepsthiel@gmail.com
-Aktueller Aufenthaltsort: Seit 27.11.2025, gemeinsam mit Hund Don, Möbliertes Apartment Poldi 3, Vy 33, 99085 Erfurt, Thüringen, Deutschland
 
 1. Übersicht und juristische Zuordnung der erhaltenen Beweismittel
 
