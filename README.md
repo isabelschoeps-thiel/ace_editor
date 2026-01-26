@@ -22,7 +22,7 @@ Seit 24.01.2026, gemeinsam mit meinem Hund-Tier Don, American XL Bully Don, Apar
 ### A. Patente / PDFs  
   
 ### 1. DE10253433A1 – Missbrauch  Gedankenlesen/Gedankenübertragung  
-- Inhalt: Patentiert wird die Übertragung und gezielte Beeinflussung menschlicher Gedanken per elektromagnetischer Strahlung, ohne technische Geräte am Empfänger.  
+- Inhalt: Es wurde die Übertragung und gezielte Beeinflussung menschlicher Gedanken per elektromagnetischer Strahlung, ohne technische Geräte am Empfänger patentiert und zugelassen.  
 - Kernpunkte Gedankenkontrolle und -übertragung (u.a. Mikrowellen, LASER/MASER)  
 - Direkte Manipulation von Gehirnaktivität/Bewusstsein.  
 - Anwendung für Kommunikation, Überwachung, Profiling und Manipulation.  
