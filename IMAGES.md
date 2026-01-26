@@ -55,13 +55,15 @@ Die Eidesstattliche Erklärung, ist Bestandteil des forensisch, wissenschaftlich
 internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`
 
 **Wichtiger-Vermerk:**
-Aufgrund das die von `mir bewohnte Immobilie, Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, `zum Verkauf angeboten wird`, kann ich zum heutigen Zeitpunkt nicht sagen, `wie meine Wohnsituation die kommenden Tage oder Wochen gemeinsam mit meinem Hund-Tier American XL Bully Don aussieht.
+Aufgrund das die von `mir bewohnte Immobilie, Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, `zum Verkauf angebote wurde`, und ich diese räumen musste, **befinde ich mich bis einschliesslich 01.02.2026 in dem Apartment Roter Fuchs, Kartausengarten 8, D-99084 Erfurt.** 
+
+`Wie meine Wohnsituation die kommenden Tage oder Wochen gemeinsam mit meinem Hund-Tier American XL Bully Don aussieht, kann ich zum heutigen Zeitpunkt nicht sagen.`
 
 **Deshalb bitte**
 `ich alle internationale Regierungen, die Vereinten Nationen UN, Presse, Medien - die bitte helfen Sie mir!` 
 
 **Ort, Signatur Kürzel, Zeitstempel der Eintragung und Veröffentlichung:**
-Deutschland, Thüringen, Apartment Roter Fuchs Kartausengarten 8, D-99084 Erfurt, Mitteleuropäische Zeit, Montag, den 2026-01-26, 18:33CEST 
+Deutschland, Thüringen, Apartment Roter Fuchs, Kartausengarten 8, D-99084 Erfurt, Mitteleuropäische Zeit, Montag, den 2026-01-26, 18:40CEST 
 
 **Developer-Kürzel**
 `IST - Isabel Schöps Thiel`
